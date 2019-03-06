@@ -3,7 +3,7 @@ name: Gridster
 description: the material experience for jekyll
 destination: jekyllbuild
 url: https://moviebd.github.io
-baseurl: 
+baseurl: https://moviebd.github.io/hd
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
